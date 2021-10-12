@@ -1,3 +1,6 @@
+::  By: Trajano
+::  Version: 1.0
+
 @echo off 
 cls
 title root@%username%:~
